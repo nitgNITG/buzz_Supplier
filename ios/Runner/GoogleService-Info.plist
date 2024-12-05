@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>721427766712-4cdbk524vmv74f8lelimisv3vrtkhrri.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.721427766712-4cdbk524vmv74f8lelimisv3vrtkhrri</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>721427766712-01hr91rld65jhujbeqn40ta3lhivkjj1.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAOvkqag8MvxNY9Pf67ZB7wtqHoUet7quc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>721427766712</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.buzzsupplier</string>
+	<key>PROJECT_ID</key>
+	<string>buzzer-dd3cc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>buzzer-dd3cc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:721427766712:ios:063f3151c3e84ce52f834d</string>
+	<key>DATABASE_URL</key>
+	<string>https://buzzer-dd3cc-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
